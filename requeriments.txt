@@ -1,0 +1,14 @@
+fastapi
+sqlalchemy
+databases
+asyncpg
+psycopg2-binary
+uvicorn
+python-dotenv
+alembic
+python-decouple
+email-validator
+passlib[bcrypt]
+pyjwt
+asyncclick
+black
