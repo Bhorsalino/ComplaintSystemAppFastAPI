@@ -1,1 +1,2 @@
-format: black ./
+format:
+	black commands/* managers/*  models/* resources/* schemas/*

@@ -8,4 +8,4 @@ class UserOut(UserBase):
     last_name: str
     phone: str
     role: RoleType
-    iban:str
+    iban: str

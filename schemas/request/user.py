@@ -8,5 +8,6 @@ class UserRegisterIn(UserBase):
     last_name: str
     iban: str
 
+
 class UserLoginIn(UserBase):
     password: str
