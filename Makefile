@@ -1,2 +1,2 @@
 format:
-	black commands/* managers/*  models/* resources/* schemas/*
+	black  db.py main.py commands/* managers/*  models/* resources/* schemas/*
